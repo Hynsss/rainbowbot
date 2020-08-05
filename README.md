@@ -12,3 +12,5 @@ This a rainbow nickname bot discord
 В открывшемся окне вписать: "cd <путь к корневой папке бота>", затем вписать: "node bot.js". И всё! Если написано: Bot is ready, значит он запустился и работает!
 
 can anyone please translate my text into english, write me: Уже сижу на твоём ПК, ребёнок.#6227
+
+[![Run on Repl.it](https://repl.it/badge/github/TerminalPR0/rainbowbot)](https://repl.it/github/TerminalPR0/rainbowbot)
